@@ -38,4 +38,15 @@ A list of good (useful) Haskell libraries
   - [Tcl](https://github.com/jdc8/msgpack) (BSD-3 license)
   - [Go](https://github.com/ugorji/go-msgpack) (BSD-3 license)
   - [Ruby](https://github.com/msgpack/msgpack-ruby) (Apache 2.0 license)
+  - [Haskell(cereal)](https://github.com/GaloisInc/cereal) (BSD-3 license)  
+    Note: another Haskell package `msgpack` library has many dependencies that breaks 
+    tens of packages I have installed, e.g.,
+    - text-region-0.1.0.1
+    - hsdev-0.2.1.0
+    - system-filepath-0.4.13.4
+    - optparse-generic-1.1.3
+    - simple-log-0.5.0
+    - hdocs-0.5.0.1
+    - hPDB-1.2.0.9
+
   
