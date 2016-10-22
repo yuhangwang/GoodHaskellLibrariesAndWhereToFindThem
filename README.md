@@ -19,3 +19,9 @@ A list of good (useful) Haskell libraries
   A standalone Haskell interpreter
   - Features
     - can load definitions from files
+
+
+## FFI (foreign language interface)
+* [call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything)
+  Use `MsgPack` format to encode/decode function call argument   
+  and return values to and from compiled Haskell dynamic libries.
