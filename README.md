@@ -23,7 +23,7 @@ A list of good (useful) Haskell libraries
 
 ## FFI (foreign language interface)
 * [call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything)
-  Use `MsgPack` format to encode/decode function call argument   
+  Use [MsgPack](http://msgpack.org) format to encode/decode function call argument   
   and return values to and from compiled Haskell dynamic libries.   
   Implementation of `MsgPack` are available in at least the following languages
   - [JavaScript (NodeJS)](https://github.com/creationix/msgpack-js) (MIT license)
@@ -38,3 +38,4 @@ A list of good (useful) Haskell libraries
   - [Tcl](https://github.com/jdc8/msgpack) (BSD-3 license)
   - [Go](https://github.com/ugorji/go-msgpack) (BSD-3 license)
   - [Ruby](https://github.com/msgpack/msgpack-ruby) (Apache 2.0 license)
+  
